@@ -1,0 +1,13 @@
+﻿{
+    "navigationFallback":  {
+                               "rewrite":  "/index.html"
+                           },
+    "routes":  [
+                   {
+                       "allowedRoles":  [
+                                            "anonymous"
+                                        ],
+                       "route":  "/*"
+                   }
+               ]
+}
